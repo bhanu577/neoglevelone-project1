@@ -1,8 +1,8 @@
 var readlineSync = require("readline-sync")
 console.log("Hi Mate!!! Good Day!!!");
-var userName = readlineSync.question("What do your friends call you :");
+var userName = readlineSync.question("What do your friend call you :");
 console.log("Hey "+ userName +" Good Day!");
-console.log("Lets have a fun game how well do you know me");
+console.log("Lets have a fun game how well do you know about Bhanu");
 var score=0;
 var wrong=0;
 var highestScoreUser={name:"",result:0};
